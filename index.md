@@ -29,4 +29,4 @@ Try [LinkedIn](http://www.linkedin.com/), or the [SpringSource](http://www.sprin
 
 ## Any pictures?
 
-Try [Picasa](http://picasaweb.google.com/david.syer) (lots of pictures of mountains, some cities, a few people). 
+Try [Picasa](http://picasaweb.google.com/david.syer) (lots of pictures of mountains, some cities, a few people, mostly Isabel). 

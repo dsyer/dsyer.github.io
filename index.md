@@ -11,7 +11,7 @@ Short bio:
 
 >    Born: Oxford 1965
 
->    Educated: Spennymoor Grammar School, University of Cambridge (PhD Astrophysics 1992)
+>    Educated: Spennymoor Comprehensive School, University of Cambridge (PhD Astrophysics 1992)
 
 >    Career: Astrophysics (Harvard, Toronto, Munich), Risk Management (Algorithmics, London), Enterprise Open Source Software (SpringSource, London) 
 
@@ -25,7 +25,7 @@ Just a placeholder really, while we try and think of something more interesting 
 
 ## How can I contact him?
 
-Try [LinkedIn](http://www.linkedin.com/), or the [SpringSource](http://www.springsource.com/) website or [Spring Batch](http://forum.springsource.org/forumdisplay.php?f=41) forum.
+Try [LinkedIn](http://www.linkedin.com/), or the [SpringSource](http://www.springsource.com/) website or [Spring OAuth](http://forum.springsource.org/forumdisplay.php?f=79) forum.
 
 ## Any pictures?
 

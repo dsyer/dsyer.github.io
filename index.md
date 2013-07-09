@@ -3,6 +3,8 @@ title: Home
 layout: default
 ---
 
+{:toc}
+
 # Dave Syer
 
 ## Who's he?

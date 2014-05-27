@@ -1,1 +1,2 @@
-exclude: config, Capfile
+exclude: [config]
+markdown: redcarpet

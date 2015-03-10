@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/dsyer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dsyer.com
+  * I am dsyer (https://keybase.io/dsyer) on keybase.
+  * I have a public key with fingerprint 032D F42A 76D3 4CD8 DE76  BEFC 257D 4510 E2E1 1827
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "032df42a76d34cd8de76befc257d4510e2e11827",
+            "host": "keybase.io",
+            "key_id": "257d4510e2e11827",
+            "kid": "010185beb86828aef0b9cf16f7e7faafdd0918318b9841f96e4b7b55fa6e8690e42c0a",
+            "uid": "73151a676c0b4eae55fd4a437ed15819",
+            "username": "dsyer"
+        },
+        "service": {
+            "hostname": "dsyer.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1425985454,
+    "expire_in": 157680000,
+    "prev": "84ab3dff0bd57c36db7c663b50dfc1f3d5c11d2413568cd7e02f6fa93e7bb05e",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtkl1IFUEYho9mpVJqCWlhfyv2gz/s7O7sz8ksL4TSoJvoRvM4szOrm7p73LNH
+PZjSIbywgjS8sG6EEAwq4ZAXlXUhFUQFQWVQkKapYUehDCwJrFkp6KK5Geb9nvf9
++D6me+MaX2JCXntZxtRk9t6EZ6MHsO/EyovhNg7bJML527h6unoZplVLnaBjWi7n
+53hRIIYkIEUmoqQTlVBFxtTQBagQCQKeChQAVVC4Aq7ODnkOFoNRiBaZNtPYI2AS
+pv6Hr18t8IAHKsQUq7IqqIgaPNZ0A8iGQhUDIYMQXgOqCFSsqRIwNJlKWMEQGkim
+qqzxVBJ0HrG48GqcIgIIkKzIOo8liigDiYQkUaEEQBVoHhiijoUaKaNJKEIdrr2A
+Y1KzqVNvfm+Mf8tFut3IXEHHdm3dbmBynesG/Z7LjQQ9rIXiwJ+AADYtwhbIDM3U
+CZm2xfkBI3XX9BKBJEBNhRKUCjjaGjQdGjA9AiqyyrPjtaHNLFKVEBaJwZZBoKKL
+MsGKLssihjwxdGCIBOoAEEECIpRVnSiUFwzZQJpIFYx5SDlvpCbL5vysk4tqWWTI
+rLWQG3Yo157alZCT5EtI9K1bm+j9AV9qSsbfnxGdXf8rXLMtafrxgZ6v8Lne8TLC
+LX5Ii96oRtmw8PupPfk9tzq39O0/uNAZv3Mp82R810jOZHd+RcCq6Arvp+MjY5Jc
+v+Z98s5A+b2xIqQlrVxKbxx7VR2/mruxxOwLXy/f8Ga+dCL2bvrI46zo4e0jNZt+
+fJwIW4d+3J9921r681rs8jxOu/Oo0B3cvG+xrFF41fBtK58Pzconu8dPV326OHg0
+5VhxaIn/MrOUerOqN+fulDh7pWc50ckS4unpT56+rtCGZ4ZadvQmZx4PdCklZ/Mm
+p0c+Vx6vvtvf+XC5KnYh8rq4uCnaFJuricTODzy4PTT3KPfEQGX/uY6iMwuje/xW
+xm8=
+=M2xE
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dsyer
+
+==================================================================
